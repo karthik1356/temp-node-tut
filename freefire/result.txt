@@ -1,0 +1,1 @@
+This is the result Hello I am in first.txt file ,Hello I am in second.txt file
